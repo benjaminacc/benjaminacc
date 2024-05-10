@@ -18,3 +18,17 @@ Soy un estudiante de 6° semestre de Ingeniería en Tecnologías Computacionales
 - **Tecnológico de Monterrey**
   - Estudiante:
     - agosto de 2018 - Present (*5 años 10 meses*)
+   
+### Herramientas de trabajo (plataformas y lenguajes de programación):
+- ![Android Studio](https://img.shileds.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+- ![Android](https://img.shileds.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+- ![React JSX](https://img.shileds.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+- ![HTML](https://img.shileds.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+- ![CSS](https://img.shileds.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+- ![Bootstrap](https://img.shileds.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+- ![Unity](https://img.shileds.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+- ![C++](https://img.shileds.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+
+### Idiomas:
+- Español (nativo)
+- Inglés (B2)
