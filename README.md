@@ -1,4 +1,4 @@
-# Hi there 👋
+# ¡Hola, mundo! Soy Benjamín Cruz👋
 
 <!--
 **benjaminacc/benjaminacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
